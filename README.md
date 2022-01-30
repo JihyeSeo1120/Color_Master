@@ -11,3 +11,13 @@
 ### Stack
 - HTML/CSS
 - Javascript
+
+### Link
+[Color Master](https://store.whale.naver.com/detail/mlnipepmppbdpfddnpmpjimdpmkejoni)
+
+### Application
+#### 『웹 사이트의 메인 색상을 추출』
+- 방문한 웹 사이트의 메인 색상에 대한 RGB & HEX 색상 코드를 제공
+
+#### 『화면에 보이는 색 PICKER』
+- PICKER를 통해 선택 이미지에 대해 RGB&HEX 색상 코드 뿐만 아니라 색상 조절창을 제공
