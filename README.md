@@ -2,19 +2,20 @@
 <br/>
 
 ## 2019 웨일 브라우저 확장앱 개발 콘테스트
-</br>
+<br/>
 
 ### Link👇🏻
 [Color Master](https://store.whale.naver.com/detail/mlnipepmppbdpfddnpmpjimdpmkejoni)
 <br/>
 
 ### Team 🙋🏻‍♀️
-- 서지혜 [Jihyeseo1120](https://github.com/JihyeSeo1120)
+- 서지혜 [wiseseo](https://github.com/wiseseo)
 - 오예나 [oyn0622](https://github.com/oyn0622)
 <br/>
 
 ### Stack 🛠
-- HTML/CSS
+- HTML
+- CSS
 - Javascript
 <br/>
 
