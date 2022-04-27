@@ -11,7 +11,7 @@
 <br/>
 
 ### 바로가기 🔗
-<a href="https://store.whale.naver.com/detail/mlnipepmppbdpfddnpmpjimdpmkejoni" target="_blank">웨일 스토어 링크</a>
+<a href="https://store.whale.naver.com/detail/mlnipepmppbdpfddnpmpjimdpmkejoni" target="_blank" rel="noopener noreferrer">웨일 스토어 링크</a>
 <br/>
 
 ### Tech Stack 🛠
